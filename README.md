@@ -1,3 +1,3 @@
 # Art
 
-This repository contains branding assets for MISTswap.
+This repository contains branding assets for TANGOswap.
