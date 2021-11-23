@@ -1,3 +1,3 @@
 # Art
 
-This repository contains branding assets for TANGOswap.
+This repository contains branding assets for TangoSwap.
